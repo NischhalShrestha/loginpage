@@ -43,7 +43,7 @@ class _LoginButtonState extends State<LoginButton> {
               color: Colors.blue,
               borderRadius: BorderRadius.circular(12),
             ),
-            child: Center(
+            child: const Center(
                 child: Text(
               'Login',
               style: TextStyle(
